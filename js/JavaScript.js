@@ -4,7 +4,7 @@ function Cadastrar(){
             "matricula": 14433,
             "nome": "Breno Vaz Borges",
             "data nascimento": "12/06/2005",
-            "curso": "Informática",
+            "curso": "Turismo",
             "genêro":"masculino"
         },
         {
@@ -18,7 +18,7 @@ function Cadastrar(){
             "matricula": 12335,
             "nome": "Ruan Cauan",
             "data nascimento": "08/01/2005",
-            "curso": "Informática",
+            "curso": "ADM",
             "genêro":"masculino"
         },
         {
@@ -29,7 +29,7 @@ function Cadastrar(){
             "genêro":"masculino"
         },
         {
-            "matricula": 17253,
+            "matricula": 170,
             "nome": "Zé",
             "data nascimento": "09/02/1993",
             "curso": "Informática",
